@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 nihao
+=======
+hola
+>>>>>>> origin/hola
